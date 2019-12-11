@@ -1,26 +1,13 @@
-{% if site.hobbies %}
-	<div class="rounded_panel txt_lightgrey">
-		<div class="top-rounded-panel grey-bg">
-			<h1>My pleasure time</h1>
-		</div>
-		<div class="content-rounded-panel" style="overflow: hidden;">
-			<div>
-				{% for project in site.hobbies %}
-					{% assign loopindex = forloop.index | modulo: 2 %}
-					{% if loopindex == 1 %}
-					<div class="row">
-					{% endif %}
-						<div class="col-lg-6">
-							<div class="github-widget" data-repo="{{project.name}}"></div>
-						</div>
-					{% if loopindex == 0 %}
-					</div>
-					{% endif %}
-				{% endfor %}
-				{% if loopindex == 1 %}
-					</div>
-				{% endif %}
-			</div>
+<div id="hobbiesBubble" class="rounded_panel txt_lightgrey">
+	<div class="top-rounded-panel grey-bg">
+		<h1 id="user-hobbies">My pleasure time activities</h1>
+	</div>
+	<div class="content-rounded-panel">
+
+		<div id="skills">
+			{% for hobby in site.hobbies %}
+				<span class="label label-info label-padded"> {{hobby}} </span> &nbsp;
+			{% endfor %}
 		</div>
 	</div>
-{% endif %}
+</div>
