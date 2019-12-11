@@ -1,5 +1,4 @@
 # Site settings
-title: Dinmukhamed Tursynbay
 name: Dinmukhamed Tursynbay
 
 # Build settings
@@ -9,7 +8,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Codeforces
-  url: https://codeforces.com/profile/DimmyT/
+   url: https://codeforces.com/profile/DimmyT/
  - title: Blog
    url: http://codeforces.com/blog/DimmyT/
  - title: GitHub
