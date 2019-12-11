@@ -53,7 +53,8 @@ education:
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
 
-
+additionalinfo: |
+    <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>).
 
 intro: |
   I am a 17 years old pupil from High school, who enjoy coding and problem-solving.
