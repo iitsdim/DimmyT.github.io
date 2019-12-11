@@ -53,7 +53,7 @@ education:
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
 
-Olympiad honors: |
+Olympiadhonors: |
     <strong>IZHO Silver</strong>: International Zhautykov Olympiad, Silver Medal in Computer Science in 2019.
     <strong>IOM Silver</strong>: 4th International Olympiad of Metropolises, Silver Medal in IT, 3rd place in Team Scoring in 2019.
     
