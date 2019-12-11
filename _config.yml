@@ -21,17 +21,27 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C++
+ - Wide Range of Algorithms
  - Python
 
 
 #Work experience is required
 works:
  - title: Competitive programming club
-   start: 2015
+   start: 10.2015
    end: Ongoing
    role: Member
    description: I taught algorithms, created contests, and explained the solutions of contest problems to the members of club. I organized and held camp on programing.
-
+ - title: Moscow Workshop Juniors (MWJ)
+   start: 02.2019
+   end: 03.2019
+   role: Participant
+   description: I learned types of algorithms as advanced math, flow, dominators tree and matroids; Attended Olympiad organized by MWJ and took 3rd place.
+ - title: Video Editor
+   start: 12.2017
+   end: Ongoing
+   role: Video Editor
+   description: I was editing a video for customers (paid work). I did clip and present videos by cutting and effects video.
 #Education is required
 education:
  - level: High school
