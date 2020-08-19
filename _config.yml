@@ -7,6 +7,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+ - title: instagram
+   url: https://www.instagram.com/diktack/
  - title: Codeforces
    url: https://codeforces.com/profile/DimmyT/
  - title: Blog
@@ -27,13 +29,14 @@ skills:
  - Video Editing
  - Magic tricks
  - Python
+ - JavaScript
 
 
 #Work experience is required
 works:
  - title: Competitive programming club
    start: 10.2015
-   end: Ongoing
+   end: 8.2020
    role: Member
    description: I taught algorithms, created contests, and explained the solutions of contest problems to the members of club. I organized and held camp on programing.
  - title: Moscow Workshop Juniors (MWJ)
@@ -48,7 +51,7 @@ works:
    description: I was editing a video for customers (paid work). I did clip and present videos by cutting and effects video.
 #Education is required
 education:
- - level: High school
+ - level: High school (Red Attestat)
    date: may 2020
    school: Almaty Bilim Innovation Lyceum
 
@@ -58,13 +61,14 @@ education:
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
 
 Olympiadhonors: |
-    <strong>IZHO</strong>: 15th International Zhautykov Olympiad, Silver Medal in Computer Science in 2019.<br/><br/>
+    <strong>IZHO</strong>: 15th International Zhautykov Olympiad, Silver Medal in Computer Science in 2019 and Bronze Medal in Computer Science in 201.<br/><br/>
     <strong>IOM</strong>: 4th International Olympiad of Metropolises, Silver Medal in IT, 3rd place in Team Scoring in 2019.<br/><br/>
+    <strong>APIO</strong>:  The Asia-Pacific Informatics Olympiad (APIO), maybe bronze medal in 2020, in 2019 among the top non medalists.<br/><br/>
     <strong>Tuymaada</strong>: 26th International Tuymaada Olympiad, Silver Medal in Informatics,Yakutia.<br/><br/>
     <strong>19th All-Russian Programming School Olympiad</strong>: It is a big competition team programming competition with 259 participant teams. My team's name is dab. I achieved 3-degree diploma on this Olympiad.<br/><br/>
     <strong>XI Eurasian Olympiad in Computer Science</strong>: It is a team olympiad with more than 200 participants. I am the winner of this olympiad. Competiton style is  ACM ICPC.<br/><br/>
     <strong>Technocup 2019</strong>: Technocup is a major olympiad for Russian-speaking high-school students, Second degree diploma in 2019.<br/><br/>
-    <strong>National Olympiad in Informatics</strong>: Bronze Medal in 2018 and Gold Medal in 2019.<br/><br/>
+    <strong>National Olympiad in Informatics</strong>: Bronze Medal in 2018 and Gold Medals in 2019 and in 2020.<br/><br/>
     
 
 intro: |
